@@ -1,0 +1,77 @@
+body {
+    background-color: black;
+}
+
+
+.page_container {
+    position: relative;
+    display: flex;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+
+.portfolio_title {
+    font-family: 'VT323', monospace;
+    color: white;
+    text-align: center;
+}    
+
+
+
+.text-container {
+    position: relative;
+    width: 1000px;
+    line-height: 3em;
+    padding-left: 20px;
+    padding-top:20px;
+}
+
+.title-text {
+    font-family: 'VT323', monospace;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top:50px;
+
+}
+
+.text-view {
+    position: relative;
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 25px;
+}
+
+
+.text-view a {
+    position: relative;
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.menu_container {
+    position: fixed;
+    top:10px;
+    
+}
+
+
+.menu {
+    font-family: 'VT323', monospace;
+    color: white;
+    text-align: center;
+}
+
+
+.menu a {
+    text-align: center;
+    display: flex; 
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
